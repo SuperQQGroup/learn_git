@@ -52,3 +52,14 @@ github 是一个网站，用于广大开发者开源自己的代码，也提供�
     git push gitee //推送本地仓库到gitee
 
     git push github //推送本地仓库到github
+
+# 把远程代码克隆到本地
+
+    8. 克隆远程仓库到本地
+
+    git clone https://github.com/SuperQQGroup/learn_git.git
+    git clone https://gitee.com/SuperQQGroup/learn_git.git
+
+    9.远程代码同步到本地
+
+    git pull github/gitee
